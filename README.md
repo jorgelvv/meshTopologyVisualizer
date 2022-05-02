@@ -4,7 +4,7 @@ This is a functional code of meshtopologyVisualizer from yoppy-tjhin.
 
 This code is functional as of May 2020 with all updated libraries for both Python and Arduino.
 
-![alt text](https://github.com/jorgelvv/meshTopologyVisualizer/blob/master/Main_Window.png?raw=true)
+![Main_Window](https://github.com/jorgelvv/meshTopologyVisualizer/blob/master/Main_Window.png?raw=true)
 
 
 A simple Python program running on PC to visualize ESP8266 painlessMesh topology.
