@@ -20,7 +20,7 @@ import networkx as nx
 class Ui_MainWindow(object):
 
     def setupUi(self, MainWindow):
-        MainWindow.setObjectName("ESP8266 Mesh Network Visualizer")
+        MainWindow.setObjectName("ESP32 Mesh Network Visualizer")
         self.mainX = 600
         self.mainY = 600
         MainWindow.resize(self.mainX, self.mainY)
@@ -168,7 +168,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "ESP8266 Mesh Network Visualizer"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "ESP32 Mesh Network Visualizer"))
         #self.label.setText(_translate("MainWindow", "TextLabel"))
         #self.label_2.setText(_translate("MainWindow", "TextLabel"))
 
